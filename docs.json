@@ -22,6 +22,12 @@
             ]
           },
           {
+            "group": "Community",
+            "pages": [
+              "carrefour-central"
+            ]
+          },
+          {
             "group": "Customization",
             "pages": [
               "essentials/settings",
